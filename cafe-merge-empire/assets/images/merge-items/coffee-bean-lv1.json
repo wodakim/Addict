@@ -1,0 +1,13 @@
+{
+  "name": "Coffee Bean",
+  "level": 1,
+  "mergeTargetId": "coffee-bean-lv2",
+  "rarity": "common",
+  "production": 1,
+  "sellPrice": 2,
+  "unlockLevel": 1,
+  "category": "decoration",
+  "tags": ["bean", "starter"],
+  "description": "Freshly roasted starter bean.",
+  "placementCost": 10
+}

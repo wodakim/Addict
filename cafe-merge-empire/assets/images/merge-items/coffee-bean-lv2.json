@@ -1,0 +1,13 @@
+{
+  "name": "Premium Coffee Bean",
+  "level": 2,
+  "mergeTargetId": null,
+  "rarity": "rare",
+  "production": 3,
+  "sellPrice": 6,
+  "unlockLevel": 1,
+  "category": "furniture",
+  "tags": ["bean", "premium"],
+  "description": "Richer aroma and higher output.",
+  "placementCost": 25
+}

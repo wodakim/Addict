@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-01T17:41:32.004Z",
+    "name": "quests",
+    "frameCount": 6
+  },
+  "frames": {
+    "daily-merge-15": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "daily-place-3": {
+      "frame": {
+        "x": 1,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "daily-watch-2-ads": {
+      "frame": {
+        "x": 2,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "daily-500-coins": {
+      "frame": {
+        "x": 3,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "ms-merge-100": {
+      "frame": {
+        "x": 4,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "ms-terrace-50": {
+      "frame": {
+        "x": 5,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  }
+}
