@@ -1,0 +1,9 @@
+{
+  "id": "festival-chocolat-chaud",
+  "name": "Festival du Chocolat Chaud",
+  "type": "limited_3_4_days",
+  "durationHours": 96,
+  "multiplier": 1.5,
+  "rewards": { "coins": 1200, "gems": 40, "battlePassXp": 140 },
+  "tasks": ["merge-30", "place-8", "claim-2-quests"]
+}

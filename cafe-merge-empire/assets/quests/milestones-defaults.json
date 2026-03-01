@@ -1,0 +1,4 @@
+[
+  {"id":"ms-merge-100","type":"milestone","title":"Merge 100 items niveau 5+","target":100,"metric":"merge_count","rewards":{"coins":2000,"gems":60,"battlePassXp":200}},
+  {"id":"ms-terrace-50","type":"milestone","title":"Décore 50% de la terrasse","target":10,"metric":"terrace_place_count","rewards":{"coins":1500,"gems":40,"battlePassXp":150}}
+]
