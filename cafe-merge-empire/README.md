@@ -18,3 +18,8 @@
 ## Notes
 - Save system is encrypted/compressed with migration support up to schema v12.
 - Live-ops, social, monetization and notifications are data-driven.
+
+
+## Guides
+- `MOBILE_APK_TUTORIEL_COMPLET.md`
+- `ASSETS_A_FOURNIR_CHECKLIST.md`
