@@ -1,0 +1,7 @@
+{
+  "id": "morning-rush",
+  "name": "Rush du Matin",
+  "durationHours": 2,
+  "startsAtHour": 9,
+  "multiplier": 2
+}

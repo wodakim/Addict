@@ -1,0 +1,9 @@
+{
+  "id": "weekend-latte-art",
+  "name": "Week-end Latte Art",
+  "type": "limited_3_4_days",
+  "durationHours": 72,
+  "multiplier": 1.35,
+  "rewards": { "coins": 900, "gems": 25, "skin": "latte-gold" },
+  "tasks": ["merge-20", "decorate-terrace", "watch-2-ads"]
+}
