@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-01T17:41:32.004Z",
+    "name": "events",
+    "frameCount": 4
+  },
+  "frames": {
+    "festival-chocolat-chaud": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "morning-rush": {
+      "frame": {
+        "x": 1,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "weekend-latte-art": {
+      "frame": {
+        "x": 2,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    "event-welcome": {
+      "frame": {
+        "x": 3,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  }
+}

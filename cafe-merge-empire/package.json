@@ -1,0 +1,47 @@
+{
+  "name": "cafe-merge-empire",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "scan:items": "node --experimental-strip-types scripts/asset-scanner.ts items",
+    "scan:levels": "node --experimental-strip-types scripts/asset-scanner.ts levels",
+    "scan:events": "node --experimental-strip-types scripts/asset-scanner.ts events",
+    "scan:all": "node --experimental-strip-types scripts/asset-scanner.ts all",
+    "cap:add:android": "cap add android",
+    "cap:sync": "cap sync",
+    "cap:open:android": "cap open android",
+    "scan:quests": "node --experimental-strip-types scripts/asset-scanner.ts quests",
+    "simulate-event": "node --experimental-strip-types scripts/simulate-event.ts",
+    "simulate-help": "node --experimental-strip-types scripts/simulate-help.ts",
+    "simulate-clan-reward": "node --experimental-strip-types scripts/simulate-clan-reward.ts",
+    "simulate-iap": "node --experimental-strip-types scripts/simulate-iap.ts",
+    "simulate-rewarded": "node --experimental-strip-types scripts/simulate-rewarded.ts",
+    "build-android": "npm run build && npx cap sync android && npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/haptics": "^6.0.0",
+    "howler": "^2.2.4",
+    "localforage": "^1.10.0",
+    "phaser": "^3.90.0",
+    "zustand": "^4.5.5",
+    "@capacitor/local-notifications": "^6.0.0",
+    "@capacitor-community/admob": "^6.0.0",
+    "cordova-plugin-purchase": "^13.12.1",
+    "crypto-js": "^4.2.0",
+    "pako": "^2.1.0",
+    "@capacitor/filesystem": "^6.0.0",
+    "@capacitor/app": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "@capacitor/cli": "^6.1.2"
+  }
+}

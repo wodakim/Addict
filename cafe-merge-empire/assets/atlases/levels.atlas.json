@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-01T17:41:32.003Z",
+    "name": "levels",
+    "frameCount": 1
+  },
+  "frames": {
+    "level-001": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  }
+}
